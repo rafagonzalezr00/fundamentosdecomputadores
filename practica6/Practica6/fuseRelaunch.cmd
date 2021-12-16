@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/UHU/Practicas/fundamentosdecomputadores/practica6/Practica6/practica6simulacion_isim_beh.exe" -prj "D:/UHU/Practicas/fundamentosdecomputadores/practica6/Practica6/practica6simulacion_beh.prj" "work.practica6simulacion" 

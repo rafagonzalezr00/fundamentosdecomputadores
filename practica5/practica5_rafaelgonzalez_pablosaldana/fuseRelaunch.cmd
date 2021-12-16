@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/practrica5/practica5_rafaelgonzalez_pablosaldana/T_p5_isim_beh.exe" -prj "D:/practrica5/practica5_rafaelgonzalez_pablosaldana/T_p5_beh.prj" "work.T_p5" 

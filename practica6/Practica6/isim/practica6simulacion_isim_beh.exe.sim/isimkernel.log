@@ -1,0 +1,31 @@
+Command line:
+   practica6simulacion_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51409
+
+Thu Dec 16 14:54:50 2021
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5151.46 Meg
+
+ Total Signals          : 33
+ Total Nets             : 33
+ Total Signal Drivers   : 19
+ Total Blocks           : 5
+ Total Primitive Blocks : 4
+ Total Processes        : 7
+ Total Traceable Variables  : 11
+ Total Scalar Nets and Variables : 412
+In process practica6codigo.vhd:39 
+ Target Size 2 and source size 4 for array dimension 0 does not match. 
+
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 5151.46 Meg
+
+Thu Dec 16 14:55:07 2021
+
